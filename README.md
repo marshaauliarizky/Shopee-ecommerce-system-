@@ -4,7 +4,7 @@ A web/mobile-based e-commerce platform developed as a course project for Informa
 
 ---
 
-## Team — Group 4
+## Team 
 
 | Name | Role |
 |------|------|
@@ -34,7 +34,7 @@ A web/mobile-based e-commerce platform developed as a course project for Informa
 ## Repository Structure
 
 ```
-Group 4 - Shopee/
+Shopee/
 ├── PRE-MEETING NOTES.docx
 ├── Minutes of Meeting.docx
 ├── Business Process Document.docx
